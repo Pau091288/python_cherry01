@@ -1,0 +1,16 @@
+# generator info
+name: Python CherryPy Microservice
+group: atomist-project-templates
+artifact: cherrypy-service
+version: 1.0.3
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: python_cherry01
+version: 0.1.0
+description: My new project
+
